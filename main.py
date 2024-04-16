@@ -1,1 +1,1 @@
-print("heeeeeeeeeeeeeeeeeeello word")
+pp"hello word")
