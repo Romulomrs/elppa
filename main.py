@@ -1,1 +1,1 @@
-print("hello word")
+gg("hello word")
